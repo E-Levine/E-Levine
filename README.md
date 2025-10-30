@@ -7,7 +7,7 @@
   <img style="height: auto; width: 40%;" class="img" src = "https://github-readme-stats.vercel.app/api?username=E-Levine&show=reviews&theme=blue-green&rank_icon=github&hide_border=false&include_all_commits=true&count_private=false&hide=stars&show_icons=true&&custom_title=Stats" />
   &nbsp;
   &nbsp;
- <img style="height: auto; width: 42.5%;" class="img" src = "https://nirzak-streak-stats.vercel.app/?user=E-Levine&theme=blue-green&hide_border=false&exclude_days=Sat,Sun" /></div>
+ <img style="height: auto; width: 42.5%;" class="img" src = "https://github-readme-streak-stats-rho-brown.vercel.app?user=E-Levine&theme=blue-green&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" /></div>
 </div>
 
 
