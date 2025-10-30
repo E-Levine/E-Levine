@@ -1,5 +1,5 @@
 ## About
-- Currrently an Assistant Research Scientist at FWRI
+- Currently an Assistant Research Scientist at FWRI
 - Top projects and roles: Oyster database manager, developing habitat suitability models for Florida oysters
 
 ## GitHub Stats
