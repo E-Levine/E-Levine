@@ -15,5 +15,6 @@
   <img style="height: auto; width: 40%;" class="img" src = "https://github-readme-stats-seven-iota-61.vercel.app/api/top-langs/?username=E-Levine&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=donut&exclude_repo=github-readme-stats,github-readme-streak-stats,github-profile-trophy" />
   &nbsp;
   &nbsp;
-  <img style="height: auto; width: 37%;" class="img" src = "https://github-profile-trophy.vercel.app/?username=E-Levine&theme=alduin&title=Commit,Stars,Issues,Repositories,PullRequest,Experience&row=2&column=3" /></div>
+</div>
+<!--  <img style="height: auto; width: 37%;" class="img" src = "https://github-profile-trophy.vercel.app/?username=E-Levine&theme=alduin&title=Commit,Stars,Issues,Repositories,PullRequest,Experience&row=2&column=3" /></div> >>
 </div>
