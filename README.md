@@ -12,8 +12,31 @@
 
 
 <div class='container'>
-  <img style="height: auto; width: 40%;" class="img" src = "https://github-readme-stats-seven-iota-61.vercel.app/api/top-langs/?username=E-Levine&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=donut&exclude_repo=github-readme-stats,github-readme-streak-stats,github-profile-trophy,WHITELIST=E-Levine" />
   &nbsp;
   &nbsp;
-<img style="height: auto; width: 37%;" class="img" src = "https://github-profile-trophy.vercel.app/?username=E-Levine&theme=alduin&title=Commit,Reviews,Issues,Repositories,PullRequest,Experience&row=2&column=3,WHITELIST=E-Levine" /></div>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img style="height: auto; width: 40%;" class="img" src = "https://github-readme-stats-seven-iota-61.vercel.app/api/top-langs/?username=E-Levine&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=donut&exclude_repo=Data_Files,github-readme-stats,github-readme-streak-stats,github-profile-trophy,WHITELIST=E-Levine" />
 </div>
