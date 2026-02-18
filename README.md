@@ -1,6 +1,10 @@
 ## About
 - Currently an Assistant Research Scientist at FWRI
-- Top projects and roles: Oyster database manager, developing habitat suitability models for Florida oysters
+- Top projects and roles:
+    - Developing standardized habitat suitability model for Florida oysters
+    - Pilot bay scallop population study
+    - Oyster database manager
+
 
 ## GitHub Stats
 <div class='container'>
